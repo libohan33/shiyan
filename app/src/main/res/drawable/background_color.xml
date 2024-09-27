@@ -1,0 +1,13 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"> <!-- 使用oval表示圆形 -->
+
+    <solid android:color="#FF0000" /> <!-- 设置背景颜色为红色 -->
+
+    <!-- 如果需要边框，可以添加stroke标签 -->
+    <!--
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />
+    -->
+
+</shape>
